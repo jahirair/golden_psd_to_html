@@ -50,6 +50,7 @@ header{position:relative;}
 .child_timeline_list:nth-child(2n+2)::before {
     left: 0px; 
 }
+.controls button {min-width:70px;}
 
 }
 
@@ -62,6 +63,7 @@ header{position:relative;}
 .js .slicknav_menu {display:block;}
 .logo{background: #4c4c4c;text-align: center;    margin-top: 0px;}
 .contact_area form input[type=submit] {width:120px;height:40px;}
+.controls button {min-width:70px;}
 
 }
 
